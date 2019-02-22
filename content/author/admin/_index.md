@@ -87,6 +87,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Dr. Nazeer has earned PhD degree from the Department of Land Surveying and Geo-Informatics (LSGI), The Hong Kong Polytechnic University, Hong Kong. Currently, he is serving as Assistant Professor and member of the Earth & Atmospheric Remote sensing Lab (EARL), at the Department of Meteorology, COMSATS University Islamabad (CUI), Islamabad Pakistan. His research interests include Oceanic Remote Sensing, Land cover and Land use classification, spatial modelling, air pollution and atmospheric correction of satellite imagery. His current research is on water quality monitoring using Remote Sensing. He has developed locally optimized, Remote Sensing based models to monitor coastal water quality in Hong Kong and aim at early detection of oceanic events such as red tide/algal blooms by observing Chlorophyll-a and other nutrients concentration using Earth observation data sets.
